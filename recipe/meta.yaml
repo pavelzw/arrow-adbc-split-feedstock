@@ -10,7 +10,7 @@ source:
   sha256: 2b4b420937f62f7ae56f46dbd6951a5e4ef0da43158080a58cb44cdd09a8b2e0
 
 build:
-  number: 0
+  number: 1
 
 outputs:
   - name: libadbc-driver-manager
